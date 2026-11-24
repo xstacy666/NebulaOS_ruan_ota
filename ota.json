@@ -1,6 +1,19 @@
 {
   "response": [
     {
+      "version": "17.0.0.107",
+      "version_code": 107,
+      "version_name": "Nebula OS Updater v2.5 (Previous Updates Engine)",
+      "date": "2026-11-25",
+      "timestamp": 1795554300,
+      "size": 161977,
+      "filename": "NebulaUpdate_v2.5.apk",
+      "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdate_v2.5.apk",
+      "changelog": "• Added dedicated Previous Updates section & rollback manager\n• Direct one-tap installation or downgrade to any historical build\n• Per-release download manager with live speed and progress\n• Frosted iOS glass card UI matching ColorOS 17 design\n• Fixed local update chooser and direct provider streaming",
+      "device": "ruan",
+      "maintainer": "Øpium | Team Nebula"
+    },
+    {
       "version": "17.0.0.106",
       "version_code": 106,
       "version_name": "Nebula OS Hotfix v2.4 (Tester Live Check)",
@@ -9,9 +22,35 @@
       "size": 149222,
       "filename": "NebulaUpdate_v2.4.apk",
       "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdate_v2.4.apk",
-      "changelog": "\u2022 Live OTA Engine Test for all testers\n\u2022 Verified direct in-place APK installation\n\u2022 Frosted Crimson glass Cancel button active\n\u2022 Zero-delay raw GitHub API streaming",
+      "changelog": "• Live OTA Engine Test for all testers\n• Verified direct in-place APK installation\n• Frosted Crimson glass Cancel button active\n• Zero-delay raw GitHub API streaming",
       "device": "ruan",
-      "maintainer": "\u00d8pium | Team Nebula"
+      "maintainer": "Øpium | Team Nebula"
+    },
+    {
+      "version": "17.0.0.105",
+      "version_code": 105,
+      "version_name": "Nebula OS Official Fastboot v105",
+      "date": "2026-11-24",
+      "timestamp": 1795513200,
+      "size": 149222,
+      "filename": "NebulaUpdate_v2.3.apk",
+      "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdate_v2.3.apk",
+      "changelog": "• Initial ColorOS 17 Fastboot ROM release\n• EROFS lz4hc,9 core partitions\n• Zero KernelSU dependency & clean SELinux enforcing\n• Full Pen & Display Color Engine support",
+      "device": "ruan",
+      "maintainer": "Øpium | Team Nebula"
+    },
+    {
+      "version": "17.0.0.102",
+      "version_code": 102,
+      "version_name": "Nebula OS Alpha v102 (Stock Baseline)",
+      "date": "2026-11-23",
+      "timestamp": 1795426800,
+      "size": 149222,
+      "filename": "NebulaUpdater_v2.2.apk",
+      "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdater_v2.2.apk",
+      "changelog": "• Initial baseline image for ruan / dizi\n• Basic device tree & core services bringup",
+      "device": "ruan",
+      "maintainer": "Øpium | Team Nebula"
     }
   ]
 }
