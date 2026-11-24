@@ -1,3 +1,17 @@
 {
-  "response": []
+  "response": [
+    {
+      "version": "17.0.0.103",
+      "version_code": 103,
+      "version_name": "NebulaOS 17.0 Build 2.1",
+      "date": "2026-11-25",
+      "timestamp": 1795545237,
+      "size": 4219090372,
+      "filename": "ColorOS17_ruan_dizi_Update.zip",
+      "url": "https://drive.google.com/file/d/1mYxFHY4do8DfEeN2ocZkYm7tAlVFBLKe/view?usp=drivesdk",
+      "changelog": "\u2022 Dynamic hardware identity (POCO Pad 5G for SIM / Redmi Pad Pro for Wi-Fi)\n\u2022 Clean About Device with zero legacy OnePlus strings\n\u2022 Full core integration of Privacy Engine & App Lock\n\u2022 Pure native zero-KSU init daemons\n\u2022 Glassy Nebula OS Updater with Google Drive streaming & auto-nuke",
+      "device": "ruan",
+      "maintainer": "\u00d8pium | Team Nebula"
+    }
+  ]
 }
