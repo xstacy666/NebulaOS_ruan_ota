@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "version": "17.0.0.105",
-      "version_code": 105,
-      "version_name": "Nebula OS Hotfix v2.3",
+      "version": "17.0.0.106",
+      "version_code": 106,
+      "version_name": "Nebula OS Hotfix v2.4 (Tester Live Check)",
       "date": "2026-11-25",
-      "timestamp": 1795546079,
+      "timestamp": 1795553150,
       "size": 149222,
-      "filename": "NebulaUpdate_v2.3.apk",
-      "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdate_v2.3.apk",
-      "changelog": "\u2022 Verified lightweight APK OTA engine\n\u2022 Fast CDN direct streaming\n\u2022 Frosted Crimson Cancel Download button",
+      "filename": "NebulaUpdate_v2.4.apk",
+      "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdate_v2.4.apk",
+      "changelog": "\u2022 Live OTA Engine Test for all testers\n\u2022 Verified direct in-place APK installation\n\u2022 Frosted Crimson glass Cancel button active\n\u2022 Zero-delay raw GitHub API streaming",
       "device": "ruan",
       "maintainer": "\u00d8pium | Team Nebula"
     }
