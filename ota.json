@@ -1,6 +1,19 @@
 {
   "response": [
     {
+      "version": "17.0.0.106",
+      "version_code": 106,
+      "version_name": "Nebula OS 17.0 (v17.0.0.106 - Core Release)",
+      "date": "2026-11-25",
+      "timestamp": 1795558800,
+      "size": 4129242185,
+      "filename": "ColorOS17_Android17_RedmiPadPro_ruan_dizi_Fastboot_v106.7z",
+      "url": "https://github.com/xstacy666/NebulaOS_ruan/releases/tag/v106",
+      "changelog": "• Prebaked 80+ Offline Flux Themes & Decoupage Wallpapers with full depth & lockscreen fluid clocks\n• Ultra-Smooth 120Hz Screen Rotation using Hardware Composer & Fixed Rotation Transform\n• Native Double Tap to Sleep (DT2S) on Lockscreen with zero KernelSU dependency\n• ColorOS Privacy Password & AppLock HeyTap account binding bypass baked into core Settings.apk\n• Dynamic Device Identification (POCO Pad 5G / Redmi Pad Pro)\n• Highly compressed Fastboot LZMA2 ROM image",
+      "device": "ruan",
+      "maintainer": "Øpium | Team Nebula"
+    },
+    {
       "version": "17.0.2 (Privacy & AppLock Hotfix)",
       "version_code": 108,
       "version_name": "Nebula OS Privacy Hotfix v17.0.2",
@@ -9,22 +22,22 @@
       "size": 102540435,
       "filename": "Nebula_Privacy_Fix_v17.0.2.zip",
       "url": "https://github.com/xstacy666/NebulaOS_ruan_ota/releases/download/v17.0.2/Nebula_Privacy_Fix_v17.0.2.zip",
-      "changelog": "\u2022 Official Team Nebula Recovery Hotfix for ruan / dizi\n\u2022 Fixed ColorOS Privacy Password creation and HeyTap account linking\n\u2022 Restored AppLock and hidden apps functionality\n\u2022 Flashable via OrangeFox Recovery direct handover",
+      "changelog": "• Official Team Nebula Recovery Hotfix for ruan / dizi\n• Fixed ColorOS Privacy Password creation and HeyTap account linking\n• Restored AppLock and hidden apps functionality\n• Flashable via OrangeFox Recovery direct handover",
       "device": "ruan",
-      "maintainer": "\u00d8pium | Team Nebula"
+      "maintainer": "Øpium | Team Nebula"
     },
     {
-      "version": "17.0.0.206",
-      "version_code": 206,
-      "version_name": "Nebula OS Updater v2.6",
+      "version": "17.0.0.207",
+      "version_code": 207,
+      "version_name": "Nebula OS Updater v2.7",
       "date": "2026-11-25",
-      "timestamp": 1795556600,
+      "timestamp": 1795558000,
       "size": 162100,
-      "filename": "NebulaUpdate_v2.6.apk",
-      "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdate_v2.6.apk",
-      "changelog": "\u2022 Previous updates browser & rollback engine v2",
+      "filename": "NebulaUpdate_v2.7.apk",
+      "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdate_v2.7.apk",
+      "changelog": "• Support for Core ROM fastboot package verification\n• Automatic OrangeFox Recovery script staging & handover\n• Seamless background verification with multi-mirror support",
       "device": "ruan",
-      "maintainer": "\u00d8pium | Team Nebula"
+      "maintainer": "Øpium | Team Nebula"
     }
   ]
 }
