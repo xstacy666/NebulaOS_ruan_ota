@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "version": "17.0.0.104",
-      "version_code": 104,
-      "version_name": "Nebula OS Updater v2.2 Hotfix",
+      "version": "17.0.0.105",
+      "version_code": 105,
+      "version_name": "Nebula OS Hotfix v2.3",
       "date": "2026-11-25",
-      "timestamp": 1795545906,
+      "timestamp": 1795546079,
       "size": 149222,
-      "filename": "NebulaUpdater_v2.2.apk",
-      "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdater_v2.2.apk",
-      "changelog": "\u2022 Added frosted crimson Cancel Download button\n\u2022 In-place lightweight APK OTA update support\n\u2022 Direct package installer integration",
+      "filename": "NebulaUpdate_v2.3.apk",
+      "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdate_v2.3.apk",
+      "changelog": "\u2022 Verified lightweight APK OTA engine\n\u2022 Fast CDN direct streaming\n\u2022 Frosted Crimson Cancel Download button",
       "device": "ruan",
       "maintainer": "\u00d8pium | Team Nebula"
     }
