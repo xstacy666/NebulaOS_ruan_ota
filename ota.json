@@ -1,28 +1,28 @@
 {
   "response": [
     {
+      "version": "17.0.2 (Privacy & AppLock Hotfix)",
+      "version_code": 108,
+      "version_name": "Nebula OS Privacy Hotfix v17.0.2",
+      "date": "2026-11-25",
+      "timestamp": 1795557200,
+      "size": 102540435,
+      "filename": "Nebula_Privacy_Fix_v17.0.2.zip",
+      "url": "https://github.com/xstacy666/NebulaOS_ruan_ota/releases/download/v17.0.2/Nebula_Privacy_Fix_v17.0.2.zip",
+      "changelog": "\u2022 Official Team Nebula Recovery Hotfix for ruan / dizi\n\u2022 Fixed ColorOS Privacy Password creation and HeyTap account linking\n\u2022 Restored AppLock and hidden apps functionality\n\u2022 Flashable via OrangeFox Recovery direct handover",
+      "device": "ruan",
+      "maintainer": "\u00d8pium | Team Nebula"
+    },
+    {
       "version": "17.0.0.206",
       "version_code": 206,
-      "version_name": "Nebula OS Updater v2.6 (Privacy & Security Fix)",
+      "version_name": "Nebula OS Updater v2.6",
       "date": "2026-11-25",
       "timestamp": 1795556600,
       "size": 162100,
       "filename": "NebulaUpdate_v2.6.apk",
       "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdate_v2.6.apk",
-      "changelog": "\u2022 Hotfix: Resolved ColorOS Privacy Password & App Lock account linking\n\u2022 Enabled seamless setup wizard without focus termination\n\u2022 Previous updates browser & rollback engine v2\n\u2022 Build 206 engine upgrade",
-      "device": "ruan",
-      "maintainer": "\u00d8pium | Team Nebula"
-    },
-    {
-      "version": "17.0.0.205",
-      "version_code": 205,
-      "version_name": "Nebula OS Updater v2.5",
-      "date": "2026-11-25",
-      "timestamp": 1795556000,
-      "size": 161977,
-      "filename": "NebulaUpdate_v2.5.apk",
-      "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdate_v2.5.apk",
-      "changelog": "\u2022 Integrated Previous Updates page in Update section\n\u2022 Loop prevention engine",
+      "changelog": "\u2022 Previous updates browser & rollback engine v2",
       "device": "ruan",
       "maintainer": "\u00d8pium | Team Nebula"
     }
