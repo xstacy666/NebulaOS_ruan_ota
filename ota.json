@@ -1,6 +1,21 @@
 {
   "response": [
     {
+      "version": "17.0.3 (Auto-Install Hotfix)",
+      "version_code": 109,
+      "version_name": "Nebula OS Privacy Auto-Install Hotfix v17.0.3",
+      "date": "2026-11-25",
+      "timestamp": 1795559400,
+      "size": 102540937,
+      "md5": "91f3e8e55b48998974c6d6fdea2e4723",
+      "sha256": "714ff66927775b4c4ce72b7d5b0c9da33ae3c0e67622a95e9af4ab3ecfc4f848",
+      "filename": "Nebula_Privacy_AutoInstall_v17.0.3.zip",
+      "url": "https://github.com/xstacy666/NebulaOS_ruan_ota/releases/download/v17.0.3/Nebula_Privacy_AutoInstall_v17.0.3.zip",
+      "changelog": "• Direct live auto-installation with automatic reboot\n• Zero OrangeFox / recovery dependency\n• Fixes ColorOS Privacy Password, AppLock, and Private Safe offline Keystore\n• Automatically clears Dalvik cache and reboots system",
+      "device": "ruan",
+      "maintainer": "Øpium | Team Nebula"
+    },
+    {
       "version": "17.0.0.106",
       "version_code": 106,
       "version_name": "Nebula OS 17.0 (v17.0.0.106 - Core Release)",
@@ -16,28 +31,15 @@
       "maintainer": "Øpium | Team Nebula"
     },
     {
-      "version": "17.0.2 (Privacy & AppLock Hotfix)",
-      "version_code": 108,
-      "version_name": "Nebula OS Privacy Hotfix v17.0.2",
+      "version": "17.0.0.208",
+      "version_code": 208,
+      "version_name": "Nebula OS Updater v2.8",
       "date": "2026-11-25",
-      "timestamp": 1795557200,
-      "size": 102540435,
-      "filename": "Nebula_Privacy_Fix_v17.0.2.zip",
-      "url": "https://github.com/xstacy666/NebulaOS_ruan_ota/releases/download/v17.0.2/Nebula_Privacy_Fix_v17.0.2.zip",
-      "changelog": "• Official Team Nebula Recovery Hotfix for ruan / dizi\n• Fixed ColorOS Privacy Password creation and HeyTap account linking\n• Restored AppLock and hidden apps functionality\n• Flashable via OrangeFox Recovery direct handover",
-      "device": "ruan",
-      "maintainer": "Øpium | Team Nebula"
-    },
-    {
-      "version": "17.0.0.207",
-      "version_code": 207,
-      "version_name": "Nebula OS Updater v2.7",
-      "date": "2026-11-25",
-      "timestamp": 1795558000,
-      "size": 162100,
-      "filename": "NebulaUpdate_v2.7.apk",
-      "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdate_v2.7.apk",
-      "changelog": "• Support for Core ROM fastboot package verification\n• Automatic OrangeFox Recovery script staging & handover\n• Seamless background verification with multi-mirror support",
+      "timestamp": 1795559000,
+      "size": 164000,
+      "filename": "NebulaUpdate_v2.8.apk",
+      "url": "https://raw.githubusercontent.com/xstacy666/NebulaOS_ruan_ota/main/NebulaUpdate_v2.8.apk",
+      "changelog": "• Top-level privileged system permissions & silent APK installation\n• Direct live auto-installation with automated reboot\n• Orientation-adaptive glassy UI with fixed window transform support",
       "device": "ruan",
       "maintainer": "Øpium | Team Nebula"
     }
